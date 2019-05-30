@@ -12,4 +12,10 @@
   - Mybatis
   - Maven
   - PageHelper
+  - jdk1.8
   - Mysql8
+  - Servlet4.0
+### 服务器: 运行tomcat
+  - 腾讯云
+  - centos7.4
+  
