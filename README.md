@@ -1,5 +1,5 @@
 # Vuejs+SSM实现前后端分离的网站
-项目demo: http://yeahqing.cn/reagents/
+项目demo: https://yeahqing.cn/reagents/
 ### 前端: 前端用户界面的显示及路由
   - Vue Cli3
   - BootstrapVue
